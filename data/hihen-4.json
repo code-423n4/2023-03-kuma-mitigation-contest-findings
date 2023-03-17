@@ -1,0 +1,8 @@
+{
+  "contest": 224,
+  "handle": "hihen",
+  "risk": "2",
+  "title": "The mitigation results in KIBToken not supporting users to transfer token to themselves (not ERC20 compliant)",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2023-03-kuma-mitigation-contest-findings/issues/4"
+}
